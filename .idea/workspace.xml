@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa542bf4-8307-4c63-8325-8f517d44e881" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MinAndMaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/reversingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaximumSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ContainsDuplicate.executor": "Run",
+    "Application.MaximumSubarray.executor": "Run",
     "Application.MinAndMaxElement.executor": "Run",
     "Application.reversingArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -71,6 +73,11 @@
       <workItem from="1725347656713" duration="29000" />
       <workItem from="1725384106351" duration="601000" />
       <workItem from="1725538363966" duration="3237000" />
+      <workItem from="1725690574092" duration="8000" />
+      <workItem from="1725880202509" duration="2114000" />
+      <workItem from="1725899225018" duration="3000" />
+      <workItem from="1726591707810" duration="3633000" />
+      <workItem from="1727090932104" duration="3789000" />
     </task>
     <servers />
   </component>
