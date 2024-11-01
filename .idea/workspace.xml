@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa542bf4-8307-4c63-8325-8f517d44e881" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaximumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/CheckSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,24 +35,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ContainsDuplicate.executor": "Run",
-    "Application.MaximumSubarray.executor": "Run",
-    "Application.MinAndMaxElement.executor": "Run",
-    "Application.reversingArray.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CheckSortedArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContainsDuplicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MaximumSubarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MinAndMaxElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reversingArray.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,6 +79,11 @@
       <workItem from="1725899225018" duration="3000" />
       <workItem from="1726591707810" duration="3633000" />
       <workItem from="1727090932104" duration="3789000" />
+      <workItem from="1727713241111" duration="727000" />
+      <workItem from="1727761800452" duration="87000" />
+      <workItem from="1727764672642" duration="21000" />
+      <workItem from="1727802149161" duration="2134000" />
+      <workItem from="1727881819556" duration="18000" />
     </task>
     <servers />
   </component>
